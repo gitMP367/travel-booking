@@ -1,0 +1,18 @@
+
+
+gitMP367
+
+git config --global user.name "gitMP367"
+git config --global user.email "imsonusk21@gmail.com"
+
+git remote add origin https://github.com/gitMP367/travel-booking.git
+
+git add .
+git commit -m "Initial commit"
+
+git branch -M main          # rename branch to main
+git push -u origin main     # push files to GitHub
+
+ https://gitmp367.github.io/travel-booking/
+ 
+git add . && git commit -m "Added Sign In/Sign Up" && git push

@@ -46,6 +46,19 @@ form input, form button {
   text-align: center;
 }
 
+#signup, #signin {
+  background: #fff;
+  border: 1px solid #ddd;
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 300px;
+  text-align: center;
+}
+
+#signup h2, #signin h2 {
+  color: #004080;
+}
+
 footer {
   background: #004080;
   color: white;
